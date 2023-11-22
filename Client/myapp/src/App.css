@@ -1,0 +1,56 @@
+
+
+.appContainer {
+  width: 97vw;
+  height:100vh;
+
+  margin: 0;
+  padding: 0;
+  overflow-y:visible;
+
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #5ee7df, #b490ca);
+
+}
+.appWrapper {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.generatorDiv{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 60%;
+}
+.appWrapper input{
+  border: none;
+  background:rgb(235, 226, 226);
+  border-radius: 5px;
+  padding: 10px 20px;
+
+}
+.inputDiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width:37%;
+
+}
+.generateButton{
+  border: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  background-color: #32a9e0;
+  color: white;
+  cursor: pointer;
+
+}

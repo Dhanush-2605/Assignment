@@ -1,0 +1,365 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+      "question": "What is the size of atom?",
+      "subject": "Chemistry",
+      "topic": "Waves",
+      "difficulty": "Medium",
+      "marks": 10
+  }
+  ,
+  {
+      "question": " What is the minimum unit of length?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  }
+  ,
+  {
+      "question": "The capacity of a convex lens is diopter, its focus will be different?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  } 
+  ,
+  {
+      "question": "Which of the following is not an ore of Zinc?",
+      "subject": "Chemistry",
+      "topic": "Waves",
+      "difficulty": "Medium",
+      "marks": 10
+  }
+  ,
+  {
+      "question": "How many electrons can the s-orbital accommodate?",
+      "subject": "Chemistry",
+      "topic": "Waves",
+      "difficulty": "Medium",
+      "marks": 10
+  }
+  ,
+  {
+      "question": "What is the speed of light?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  }
+  ,
+  {
+      "question": "What is the speed of light?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  }
+  ,
+  {
+      "question": "What is the speed of light?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  }
+  ,
+  
+    {
+      "question": "What is the atomic number of carbon?",
+      "subject": "Chemistry",
+      "topic": "Atoms",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "subject": "Chemistry",
+      "topic": "Molecules",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the pH value of pure water?",
+      "subject": "Chemistry",
+      "topic": "Acids and Bases",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the difference between an element and a compound?",
+      "subject": "Chemistry",
+      "topic": "Atoms",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the periodic table?",
+      "subject": "Chemistry",
+      "topic": "Periodic Table",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is a covalent bond?",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonds",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What are isotopes?",
+      "subject": "Chemistry",
+      "topic": "Atoms",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the process of sublimation?",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "What is the concept of molarity in chemistry?",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+
+      {
+        "question": "What is the law of conservation of energy?",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What are the three laws of motion?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the formula for gravitational force?",
+        "subject": "Physics",
+        "topic": "Gravitation",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is Ohm's law?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the function of a concave lens?",
+        "subject": "Physics",
+        "topic": "Optics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is Hooke's law?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the principle of conservation of momentum?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the formula for kinetic energy?",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the relationship between voltage, current, and resistance?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the definition of work in physics?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the law of reflection?",
+        "subject": "Physics",
+        "topic": "Optics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the principle behind a transformer?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the concept of entropy in thermodynamics?",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the definition of specific heat capacity?",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Easy",
+        "marks": 5
+      }  
+  ,
+  {
+      "question": "What is a blackhole?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the value of π (pi) to two decimal places?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+    
+  {
+    "question": "What is the formula for Newton's second law of motion?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the unit of measurement for electric current?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What does E=mc^2 represent?",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the formula for acceleration?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the value of the square root of 121?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the value of e (Euler's number) rounded to two decimal places?",
+    "subject": "Mathematics",
+    "topic": "Constants",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the formula for the volume of a sphere?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the definition of a prime number?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the concept of the Fibonacci sequence?",
+    "subject": "Mathematics",
+    "topic": "Sequences",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the formula for the perimeter of a rectangle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  }
+  
+]
