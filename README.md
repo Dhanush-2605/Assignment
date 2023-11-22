@@ -11,19 +11,19 @@ This application is built using React for the frontend and Node.js for the backe
 [git clone https://github.com/yourusername/your-repo.git
 ](https://github.com/Dhanush-2605/Assignment.git)
 
-## Installation
+### Installation
 
-## For frontend
+### For frontend
 cd Client
 cd myapp
 npm install
 
-## Starting the application
+### Starting the application
 npm start
 
-## For backend
+### For backend
 cd Server
 npm install
 
-## Starting the application
+### Starting the application
 node index.js
