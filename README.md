@@ -14,16 +14,16 @@ This application is built using React for the frontend and Node.js for the backe
 ### Installation
 
 ### For frontend
-cd Client
-cd myapp
-npm install
+- cd Client
+- cd myapp
+- npm install
 
 ### Starting the application
 npm start
 
 ### For backend
-cd Server
-npm install
+- cd Server
+- npm install
 
 ### Starting the application
 node index.js
