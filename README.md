@@ -19,11 +19,11 @@ This application is built using React for the frontend and Node.js for the backe
 - npm install
 
 ### Starting the application
-npm start
+- npm start
 
 ### For backend
 - cd Server
 - npm install
 
 ### Starting the application
-node index.js
+- node index.js
