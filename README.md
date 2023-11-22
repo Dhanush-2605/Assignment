@@ -8,7 +8,7 @@ This application is built using React for the frontend and Node.js for the backe
 
 ### Clone the repository
 
-[git clone https://github.com/yourusername/your-repo.git
+[git clone https://github.com/Dhanush-2605/Assignment.git
 ](https://github.com/Dhanush-2605/Assignment.git)
 
 ### Installation
